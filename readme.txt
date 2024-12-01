@@ -1,1 +1,1 @@
-The server for Band Gamex
+The server for Band Game
